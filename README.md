@@ -9,4 +9,4 @@ An ls clone. Can be run with or without a depth arg specifying how many folders 
 
 Restart your terminal or what have you
 
-![image](https://github.com/user-attachments/assets/10c20167-b5d0-4eff-bb62-fc4602bfd15e)
+![ls_rs](https://github.com/user-attachments/assets/45b65f67-9d33-4d88-b79f-f470076bb59e)
