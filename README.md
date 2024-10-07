@@ -2,7 +2,7 @@
 
 An ls clone. Can be run with or without a depth arg specficying how many folders to go down. Defaults to 0 (current dir only) if not passed.
 
-To run
+## To run  
 `cargo build -r`  
 
 `sudo cp target/release/ls_rs /bin`  
